@@ -1,4 +1,4 @@
-@import url("https://raw.githubusercontent.com/MrBighead-Github/theme/main/funky.css");
+@import url("https://nyri4.github.io/donators/donators.css");
 :root .buttons-3dF5Kd {
   transition: opacity 150ms;
 }
@@ -33,6 +33,7 @@
 :root .panels-3wFtMD > .container-YkUktl > .avatarWrapper-1B9FTW > .avatar-1EWyVD + .nameTag-sc-gpq {
   display: none;
 }
+/*
 :root .content-1SgpWY > :nth-child(2):not(.chat-2ZfjoI),
 :root .callContainer-BGIngG,
 :root .gatedContent-31-gID,
@@ -42,6 +43,7 @@
 :root .background-12kWdX {
   z-index: 2;
 }
+*\
 :root .chat-2ZfjoI .form-3gdLxP {
   padding-left: 66px;
 }
