@@ -6,6 +6,8 @@
 */
 @import url("https://stickfab.github.io/pc-fluenticons/src/fluenticons-settings.css");
 @import "https://comfy-themes.github.io/Discord/betterdiscord/main.css";
+
+
 .theme-dark {
     --header-primary: var(--primary-130);
     --header-secondary: var(--primary-330);
@@ -195,8 +197,6 @@
 *   ➥ Color : Delete the url("https://mywebsite/example.png") and replace it by an HEX color
 *
 *   ℹ️ : This background isn't and cannot be linked to the new Nitro banners or USRBG 
-
-
 */
 
 @import url(https://objectiveslayer.github.io/ComfyGray/addons/icon%20replace%20by%20Obscure.%234719.css);
